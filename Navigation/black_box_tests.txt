@@ -1,0 +1,7 @@
+Test Case 1: Test valid login credentials
+Input: username=admin, password=admin
+Expected Outcome: Successful login
+
+Test Case 2: Test invalid login credentials
+Input: username=user123, password=pass123
+Expected Outcome: Invalid login
