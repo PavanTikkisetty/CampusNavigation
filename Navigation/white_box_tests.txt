@@ -1,0 +1,5 @@
+Test Case 1: Test statement coverage for login
+Expected Outcome: Verify each statement in the login process is executed
+
+Test Case 2: Test branch coverage for map navigation
+Expected Outcome: Test different branches in the map navigation process
