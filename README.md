@@ -1,2 +1,2 @@
 # CampusNavigation
-A Application for the campus Navigation
+Application for the campus Navigation
